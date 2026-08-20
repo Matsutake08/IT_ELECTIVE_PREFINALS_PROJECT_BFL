@@ -1,6 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}"
+# Visual Studio Version 18
+VisualStudioVersion = 18.9.12112.369 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDeskMvc", "HelpDeskMvc\HelpDeskMvc.csproj", "{8B1C42A1-28B3-4ED7-83EC-F1D8075B4D26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B1C42A1-28B3-4ED7-83EC-F1D8075B4D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1C42A1-28B3-4ED7-83EC-F1D8075B4D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1C42A1-28B3-4ED7-83EC-F1D8075B4D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1C42A1-28B3-4ED7-83EC-F1D8075B4D26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F881922F-5924-42C6-86C8-FFA5421B1006}
 	EndGlobalSection
 EndGlobal
