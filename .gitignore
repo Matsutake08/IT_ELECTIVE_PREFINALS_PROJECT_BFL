@@ -56,3 +56,12 @@ CodeCoverage/
 TestResult.xml
 nunit-*.xml
 /.idea/
+ConsoleApp1/.vs/ConsoleApp1/DesignTimeBuild/.dtbcache.v2
+*.vsidx
+ConsoleApp1/.vs/ConsoleApp1/v18/.futdcache.v2
+ConsoleApp1/.vs/ConsoleApp1/v18/.suo
+ConsoleApp1/.vs/ConsoleApp1/v18/DocumentLayout.json
+ConsoleApp1/.vs/ProjectEvaluation/consoleapp1.metadata.v10.bin
+ConsoleApp1/.vs/ProjectEvaluation/consoleapp1.projects.v10.bin
+ConsoleApp1/.vs/ProjectEvaluation/consoleapp1.strings.v10.bin
+/.vs
